@@ -1,10 +1,10 @@
 # Purpose
 This repostory contains material for the Design and Analysis of Algorithms course at the Indian Statistical Instutute, Bangalore
-# Textbook and References
+# References
 * [SW](https://algs4.cs.princeton.edu/home/) Algorithms by Robert Sedgewick and Kevin Wayne. I will follow the coverage as in this text. You can use this online as a text book for the most part.
 * [DPV](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) Algorithms by Sanjay Dasgupta, Christos H Papadimitriou, and Umesh V Vazirani
 # Content:
-Not fully though out, but here is an outline (WIP). The sections mentioned are with respect to the textbook by Sedgewick.
+Not fully though out, but here is an outline (WIP). Where possible reference is made to the above reference material
 * **Introduction** Notion of Analysis through examples - Insertion sort, selection sort, search, binary search, Algorithm complexity vs problem complexity, space versus time complexity., what is the parameter in the compexity function. Introducing the Big Oh (and Big Theta and Big Omega) concepts for characterizing complexity. Binary search vs Fibonacci search. Examples with bitwize add and multiply . Fast bitwise multiply. Recurrence relations and the Master Theorem.
 * **Sorting**  Merge sort, heap and heap-sort, 
 * **Searching**
