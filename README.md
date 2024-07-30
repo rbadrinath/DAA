@@ -12,4 +12,4 @@ Not fully though out, but here is an outline (WIP). The sections mentioned are w
 # Lecture sequencing
 * 23-July-24  Introduction section, up to space vs time complexity. To read: Chap 0 of DPV, 1.4 and 2.1 of SW
 * 25-July-24  Fibonacci search, Formal complexity notation, bitwize operations. pp 22-24  and pp 51-55 of DPV
-* 30-July-24  Faster multiply, the Master theorem pp 51-55 of DPV, and revisiting binary search and outline of merge sort pp 56-57 of DPV .    Introduction to heaps 2.4 of SW.
+* 30-July-24  Faster multiply, Recurrence relations for analysis, the Master theorem pp 51-55 of DPV, and revisiting binary search and outline of merge sort as applications of the theorem. pp 56-57 of DPV .    Introduction to heaps 2.4 of SW.
