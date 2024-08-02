@@ -13,4 +13,4 @@ Not fully though out, but here is an outline (WIP). Where possible reference is 
 * 23-July-24  Introduction section mentioned above, up to space vs time complexity. To read: Chap 0 of DPV, 1.4 and 2.1 of SW
 * 25-July-24  Remainder of Introduction section - Fibonacci search, Formal complexity notation, bitwize operations. pp 22-24  and pp 51-55 of DPV
 * 30-July-24  Faster multiply, Recurrence relations for analysis, the Master theorem pp 51-55 of DPV, and revisiting binary search and outline of merge sort as applications of the theorem. pp 56-57 of DPV .    Introduction to heaps 2.4 of SW.
-* 
+* 01-August-24 Heaps, heap operations, heapsort and the notion of a priority queue 2.4 of SW. Difference between queues, arrays and priority queues. Introduction to amortized analysis by using the multi-pop stack example.
