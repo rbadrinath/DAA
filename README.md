@@ -1,5 +1,8 @@
 # Purpose
 This repostory contains material for the Design and Analysis of Algorithms course at the Indian Statistical Instutute, Bangalore
+
+Slide sets here are more to outline the topic touched and not intended to be self explanatory.
+
 # References
 * [SW](https://algs4.cs.princeton.edu/home/) Algorithms by Robert Sedgewick and Kevin Wayne. I will follow the coverage as in this text. You can use this online as a text book for the most part.
 * [SAC](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf) Algorithms in C by Robert Sedgewick. This has some material hat the above one does not.
