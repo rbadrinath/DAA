@@ -8,12 +8,6 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * [SAC](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf) Algorithms in C by Robert Sedgewick. This has some material hat the above one does not.
 * [DPV](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) Algorithms by Sanjay Dasgupta, Christos H Papadimitriou, and Umesh V Vazirani
 
-# Content
-Not fully though out, but here is an outline (WIP). Where possible reference is made to the above reference material
-* **Introduction** Notion of Analysis through examples - Insertion sort, selection sort, search, binary search, Algorithm complexity vs problem complexity, space versus time complexity., what is the parameter in the compexity function. Introducing the Big Oh (and Big Theta and Big Omega) concepts for characterizing complexity. Binary search vs Fibonacci search. Examples with bitwize add and multiply . Fast bitwise multiply. Recurrence relations and the Master Theorem.
-* **Sorting**  Merge sort, heap and heap-sort
-* **Searching**
-
 # Lecture sequencing
 * 23-July-24  Introduction section mentioned above, up to space vs time complexity. To read: Chap 0 of DPV, 1.4 and 2.1 of SW
 * 25-July-24  Remainder of Introduction section - Fibonacci search, Formal complexity notation, bitwize operations. pp 22-24  and pp 51-55 of DPV
