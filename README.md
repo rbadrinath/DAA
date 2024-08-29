@@ -7,6 +7,7 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * [SW](https://algs4.cs.princeton.edu/home/) Algorithms by Robert Sedgewick and Kevin Wayne. I will follow the coverage as in this text. You can use this online as a text book for the most part.
 * [SAC](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf) Algorithms in C by Robert Sedgewick. This has some material hat the above one does not.
 * [DPV](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) Algorithms by Sanjay Dasgupta, Christos H Papadimitriou, and Umesh V Vazirani
+* [BB](https://jainakshay781.files.wordpress.com/2017/12/gilles-brassard-and-paul-bartley-fundamental-of-algorithmics.pdf) Algorithmics Theory and Practice. Gilles Brassard and Paul Bratley
 
 # Lecture sequencing
 * 23-July-24  Introduction section mentioned above, up to space vs time complexity. To read: Chap 0 of DPV, 1.4 and 2.1 of SW
@@ -16,7 +17,7 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 06-August-24 Binary counter - amortized analysis example. Finding the *k*th smallest (or *k* ranked element) in an unordered array - expected time/cost analysis in DPV pp 60-61. Recall Divide and Conquer as a strategy. Binary Search Trees O(*h*) for basic ops SW 3.2 - Motivation for balanced search trees.
 * 08-August-24 BST-traversal and sorted order, 2-3 trees ( and a mention of m-ary trees and B-Trees), equivalence of 2-3 and red-black trees SW 3.3. Mentioned why B-Trees are common in storage solutions like databases. Hashing SW 3.4. Lowerbound of nlog(n) for comparison based sorting (n! leaves in the comparision tree of any sorting algorithm.- See pp 59 of DPV) Radix-sort and counting-sort for 'faster' sorting    SAC ch.10.
 * 13-August-24 Strassen's method for multiplication pp 62-63 of DPV.  The Fast Fourier Transform algorithm - as part ofpolynomial multiplication pp 64-71 DPV. We also did the average case analysis for quicksort, but did not complete it.
-* 20-August-24 Disjoint set union-find algorithm, started Depth First Search (DFS) on graphs.
-* 22-August-24 DFS with pre and post numbering, components in undirected graphs, DFS in DAGs and topological sort, introduced ideas for strongly connected components.
-* 24-August-24 Algorithm for stronlgly connected components, Breadth First Search, distance in unidrected graphs.
-* 29-August-24 Shortest-path problems: Dijkstra's algorithm, Bellman-Ford's algorithm, Notion of greedy algorithms, Min Wt Spnning tree: Prim's algorithm
+* 20-August-24 Disjoint set union-find algorithm : pp 30-34 of BB, started Depth First Search (DFS) on graphs.
+* 22-August-24 DFS with pre and post numbering, components in undirected graphs, DFS in DAGs and topological sort, introduced ideas for strongly connected component - Ch3 of DPV.
+* 24-August-24 Algorithm for stronlgly connected components - Ch 3 of DPV, Breadth First Search, distance in unidrected graphs.
+* 29-August-24 Shortest-path problems: Dijkstra's algorithm, Bellman-Ford's algorithm - Ch4 of DPV, Notion of greedy algorithms, Min Wt Spnning tree: Prim's algorithm
