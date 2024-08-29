@@ -16,3 +16,7 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 06-August-24 Binary counter - amortized analysis example. Finding the *k*th smallest (or *k* ranked element) in an unordered array - expected time/cost analysis in DPV pp 60-61. Recall Divide and Conquer as a strategy. Binary Search Trees O(*h*) for basic ops SW 3.2 - Motivation for balanced search trees.
 * 08-August-24 BST-traversal and sorted order, 2-3 trees ( and a mention of m-ary trees and B-Trees), equivalence of 2-3 and red-black trees SW 3.3. Mentioned why B-Trees are common in storage solutions like databases. Hashing SW 3.4. Lowerbound of nlog(n) for comparison based sorting (n! leaves in the comparision tree of any sorting algorithm.- See pp 59 of DPV) Radix-sort and counting-sort for 'faster' sorting    SAC ch.10.
 * 13-August-24 Strassen's method for multiplication pp 62-63 of DPV.  The Fast Fourier Transform algorithm - as part ofpolynomial multiplication pp 64-71 DPV. We also did the average case analysis for quicksort, but did not complete it.
+* 20-August-24
+* 22-August-24 Depth First Search, components in undirected graphs, DFS in DAGs and topological sort, strongly connected components.
+* 24-August-24 Algorithm for stronlgly connected components, Breadth First Search, distance in unidrected graphs.
+* 29-August-24 Shortest-path problems: Dijkstra's algorithm, Bellman-Ford's algorithm, Notion of greedy algorithms, Min Wt Spnning tree: Prim's algorithm
