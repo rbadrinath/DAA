@@ -20,4 +20,5 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 20-August-24 Disjoint set union-find algorithm : pp 30-34 of BB, started Depth First Search (DFS) on graphs.
 * 22-August-24 DFS with pre and post numbering, components in undirected graphs, DFS in DAGs and topological sort, introduced ideas for strongly connected component - Ch3 of DPV.
 * 24-August-24 Algorithm for stronlgly connected components - Ch 3 of DPV, Breadth First Search, distance in unidrected graphs.
-* 29-August-24 Shortest-path problems: Dijkstra's algorithm, Bellman-Ford's algorithm - Ch4 of DPV, Notion of greedy algorithms, Min Wt Spnning tree: Prim's algorithm
+* 29-August-24 Shortest-path problems: Dijkstra's algorithm, Bellman-Ford's algorithm - Ch4 of DPV, Notion of greedy algorithms, Min Wt Spnning tree: Prim's algorithm - P143-145 of DPV
+* 03-September-24 Kruskal's algorithm for Min Wt SPanning Trees (- pp 134-138 of DPV). Proof of Prim's and Kruskal's algorithms. Introduction to ideas in Huffman coding.
