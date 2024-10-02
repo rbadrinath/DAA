@@ -22,6 +22,6 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 24-August-24 Algorithm for stronlgly connected components - Ch 3 of DPV, Breadth First Search, distance in unidrected graphs.
 * 29-August-24 Shortest-path problems: Dijkstra's algorithm, Bellman-Ford's algorithm - Ch4 of DPV, Notion of greedy algorithms, Min Wt Spnning tree: Prim's algorithm - P143-145 of DPV
 * 03-September-24 Kruskal's algorithm for Min Wt SPanning Trees (- pp 134-138 of DPV). Proof of Prim's and Kruskal's algorithms. Introduction to ideas in Huffman coding.
-* 19-September-24 Finished Huffman coding see pp 146-150 of DPV, A* algorithm for searching.
-* 24-September-24 
+* 19-September-24 Finished Huffman coding see pp 146-150 of DPV, Algorithm of Floyd-Warshal for all pair shortest paths see pp 176-177 od DPV, A* algorithm for searching.
+* 24-September-24 Finished A* (see [this link](https://courses.cs.duke.edu/fall11/cps149s/notes/a_star.pdf). Dynamic programming, Shortest paths in DAGs and Longest increasing sub-sequence problem see pp 161-163 of DPV. Introduction to Network Flow.
 * 01-October-24  Network Flow: see pp. 199-06 of DPV (Ford-Fulkerson, Edmond-Karp); Knapsack by Dynamic programming See pp171-173 of DPV.
