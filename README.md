@@ -24,4 +24,5 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 03-September-24 Kruskal's algorithm for Min Wt SPanning Trees (- pp 134-138 of DPV). Proof of Prim's and Kruskal's algorithms. Introduction to ideas in Huffman coding.
 * 19-September-24 Finished Huffman coding see pp 146-150 of DPV, Algorithm of Floyd-Warshal for all pair shortest paths see pp 176-177 od DPV, A* algorithm for searching.
 * 24-September-24 Finished A* (see [this link](https://courses.cs.duke.edu/fall11/cps149s/notes/a_star.pdf) ). Dynamic programming, Shortest paths in DAGs and Longest increasing sub-sequence problem see pp 161-163 of DPV. Introduction to Network Flow.
-* 01-October-24  Network Flow and application to Bipartite matching, see pp. 199-206 of DPV (Ford-Fulkerson, Edmond-Karp); Knapsack by Dynamic programming See pp171-173 of DPV.
+* 01-October-24  Network Flow and application to Bipartite matching, see pp. 199-206 of DPV (Ford-Fulkerson, Edmond-Karp); Knapsack by dynamic programming See pp171-173 of DPV.
+* 03-October-24  Chained Matrix multiplication pp 174-175 of DPV. Notion of precomputation - Anscestor in a rooted tree pp.207-208 (note the pre/postnum is a bit different from what we did in class) , KMP string-searching pp.213-215 of BB. 
