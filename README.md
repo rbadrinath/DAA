@@ -26,3 +26,4 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 24-September-24 Finished A* (see [this link](https://courses.cs.duke.edu/fall11/cps149s/notes/a_star.pdf) ). Dynamic programming, Shortest paths in DAGs and Longest increasing sub-sequence problem see pp 161-163 of DPV. Introduction to Network Flow.
 * 01-October-24  Network Flow and application to Bipartite matching, see pp. 199-206 of DPV (Ford-Fulkerson, Edmond-Karp); Knapsack by dynamic programming See pp171-173 of DPV.
 * 03-October-24  Chained Matrix multiplication pp 174-175 of DPV. Notion of precomputation - Anscestor in a rooted tree pp.207-208 (note the pre/postnum is a bit different from what we did in class) , KMP string-searching pp.213-215 of BB. 
+* 08-October-24  Introduced the classes P, NP and several NP Complete problems; the notion of polynomial time reduction See pp 233-244 of DPV.
