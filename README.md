@@ -8,6 +8,7 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * [SAC](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf) Algorithms in C by Robert Sedgewick. This has some material hat the above one does not.
 * [DPV](http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf) Algorithms by Sanjay Dasgupta, Christos H Papadimitriou, and Umesh V Vazirani
 * [BB](https://jainakshay781.files.wordpress.com/2017/12/gilles-brassard-and-paul-bartley-fundamental-of-algorithmics.pdf) Algorithmics Theory and Practice. Gilles Brassard and Paul Bratley
+* [GJ](https://perso.limos.fr/~palafour/PAPERS/PDF/Garey-Johnson79.pdf) Computers and Intractability by Michael Garey and David Johnson.
 
 # Lecture sequencing
 * 23-July-24  Introduction section mentioned above, up to space vs time complexity. To read: Chap 0 of DPV, 1.4 and 2.1 of SW
@@ -27,3 +28,4 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 01-October-24  Network Flow and application to Bipartite matching, see pp. 199-206 of DPV (Ford-Fulkerson, Edmond-Karp); Knapsack by dynamic programming See pp171-173 of DPV.
 * 03-October-24  Chained Matrix multiplication pp 174-175 of DPV. Notion of precomputation - Anscestor in a rooted tree pp.207-208 (note the pre/postnum is a bit different from what we did in class) , KMP string-searching pp.213-215 of BB. 
 * 08-October-24  Introduced the classes P, NP and several NP Complete problems; the notion of polynomial time reduction See pp 233-244 of DPV.
+* 10-October-24  Several reductions HamPath->TSP(s,t), 3SAT->VC, SAT->3SAT, 3SAT->3DM See 244-251 of DPV. For details of 3SAT->3DM see pp 51-53 of GJ.
