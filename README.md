@@ -29,3 +29,4 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 03-October-24  Chained Matrix multiplication pp 174-175 of DPV. Notion of precomputation - Anscestor in a rooted tree pp.207-208 (note the pre/postnum is a bit different from what we did in class) , KMP string-searching pp.213-215 of BB. 
 * 08-October-24  Introduced the classes P, NP and several NP Complete problems; the notion of polynomial time reduction See pp 233-244 of DPV.
 * 10-October-24  Several reductions HamPath->TSP(s,t), 3SAT->VC, SAT->3SAT, 3SAT->3DM See 244-251 of DPV. For details of 3SAT->3DM see pp 51-53 of GJ.
+* 15-October-24  reductions: CIRCUIT-SAT-> SAT and a sketch of why any NP problem can reduce to CIRCUIT-SAT pp 259-261 of DVP.
