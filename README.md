@@ -30,3 +30,4 @@ Slide sets here are more to outline the topic touched and not intended to be sel
 * 08-October-24  Introduced the classes P, NP and several NP Complete problems; the notion of polynomial time reduction See pp 233-244 of DPV.
 * 10-October-24  Several reductions HamPath->TSP(s,t), 3SAT->VC, SAT->3SAT, 3SAT->3DM See 244-251 of DPV. For details of 3SAT->3DM see pp 51-53 of GJ.
 * 15-October-24  reductions: CIRCUIT-SAT-> SAT and a sketch of why any NP problem can reduce to CIRCUIT-SAT pp 259-261 of DVP.
+* 17-October-24  Dealing with NP-Complete problems. We saw the idea behind exhaustive searching (idea of DPLL for SAT and Branch and bound for TSP). We saw two approximation algorithms - for minimum VC (using maximal matching) and minimum TSP using MST.  See pp. 269-290 - we skipped Knapsack and K-Clustering.
